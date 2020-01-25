@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Cart = () => {
-    return (
-        <div className="cart">
-            <span>Items: 0</span>
-        </div>
-    )
-}
+const Cart = ({ items }) => {
+  return (
+    <div className="cart">
+      <span>Items: {items}</span>
+    </div>
+  );
+};
 
 export default Cart;
