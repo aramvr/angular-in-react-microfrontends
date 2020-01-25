@@ -1,0 +1,18 @@
+{
+  "name": "angular-in-react-microfrontend",
+  "version": "1.0.0",
+  "description": "Simple example to run Angular 8 App inside React App using Web Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "angular",
+    "webcomponents",
+    "shadowDOM",
+    "microfrontend"
+  ],
+  "author": "Aram Vardanyan",
+  "license": "ISC"
+}
